@@ -8,7 +8,11 @@ var emojiDictionary = {
   "😱": "Face Screaming in Fear",
   "🎊": "Confetti Ball",
   "😅": "Grinning Face with Sweat",
-  "🏁": "Chequered Flag"
+  "🏁": "Chequered Flag",
+  "🤗": "Hugging Face",
+  "😬": "Grimacing Face",
+  "😪": "Sleepy Face",
+  "😐": "Neutral Face"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
